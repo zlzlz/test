@@ -14,4 +14,4 @@ var_dump(phpinfo());
 // var_dump($a);
 $a=c;
 $$b=5;
-echo $c;兰永辉
+echo $c;
