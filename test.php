@@ -15,3 +15,4 @@ var_dump(phpinfo());
 $a=c;
 $$b=5;
 echo $c;
+$a=1;
