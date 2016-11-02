@@ -23,3 +23,9 @@ $$b=5;
 echo $c;
 $a=1;
 echo $a;
+
+$a=c;
+$$b=5;
+echo $c;
+$a=1;
+echo $a;
