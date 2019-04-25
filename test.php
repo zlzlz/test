@@ -1,5 +1,6 @@
 <?php 
-var_dump(phpinfo());
+phpinfo();
+var_dump();
 // $a=array('3','8','1','4','11','7');
 // $len=count($a);
 // for($i=1;$i<$len;$i++){
